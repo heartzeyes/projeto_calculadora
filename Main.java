@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Calculadora calc = new Calculadora();
 
-        System.out.print("Bem-vindo a calculadora Java!");
+        System.out.print("Bem-vindo a calculadora Java.");
         System.out.println("\nSelecione a operação desejada:");
         System.out.println("1. Adição");
         System.out.println("2. Subtração");
